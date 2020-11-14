@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/lib10/Insync/hridoy341@gmail.com/Google Drive/Courses and Projects/My Projects/02. Blog_Site/glowing-potato/env/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from sqlparse.__main__ import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
