@@ -4,7 +4,7 @@
 
 Build Versions: python 3.6, django==3.1.3
 
-**Special thanks** to [**Jasmin Finer**](https://realpython.com/get-started-with-django-1/#author) from [RealPython](www.realpython.com) for her this [blog](https://realpython.com/get-started-with-django-1/) to help me to build this project.
+**Special thanks** to [**Jasmin Finer**](https://realpython.com/get-started-with-django-1/#author) from [RealPython](https://realpython.com/) for her this [blog](https://realpython.com/get-started-with-django-1/) to help me to build this project.
 
 ## Quick Start
 
